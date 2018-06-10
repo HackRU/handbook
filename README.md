@@ -1,8 +1,10 @@
 # HackRU RND Handbook
 Learn about the HackRU Research and Development Team
 
-* 4.7.1 Overview
-* 4.7.2 Basics
+* 4.7.1 
+ * Overview
+* 4.7.2 
+ * Basics
 * 4.7.3 Major League Hacking Login
 * 4.7.4 Recruiting/Registration
 * 4.7.5 Development
