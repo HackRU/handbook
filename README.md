@@ -1,36 +1,36 @@
 # HackRU Research and Development Handbook
 Learn about the HackRU Research and Development Team
 
-* 4.7.1 
+* **1** 
   * Overview
-* 4.7.2
+* **2**
   * Basics
-* 4.7.3 
+* **3** 
   * Major League Hacking Login
-* 4.7.4 
+* **4** 
   * Recruiting/Registration
-* 4.7.5 
+* **5** 
   * Development
-* 4.7.6 
+* **6** 
   * Maintenance
-* 4.7.7 
+* **7** 
   * Unrelated HackRU Projects
-* 4.7.8 
+* **8** 
   * Post HackRU Duties
-* 4.7.9 
+* **9** 
   * Timeline
 
 
 
-## 4.7 Research and Development
+## Research and Development
 
-### 4.7.1 Overview
+### 1 Overview
 
 Our mission is to improve the overall hackathon experience by providing software to the community.
 
 In addition, we do not limit ourselves to HackRU: we hope to provide software that would aid all aspects of any Rutgers community.
 
-### 4.7.2 Basics
+### 2 Basics
 
 Our team consists of developers we call architects. We hope that a team of architects can see a project from its inception to its delivery and into its maintenance.
 
@@ -38,12 +38,12 @@ We accept all project ideas for further research, from any community though we m
 
 This team’s timeline many not align with that of HackRU. Projects may last over a semester and maintenance will certainly outlast many HackRUs as we hope projects will last.
 
-### 4.7.3 Major League Hacking Login
+### 3 Major League Hacking Login
 All our user authentication will be done on top of the services already openly provided by MLH. A hacker attending HackRU can use their myMLH account to register for HackRU with ease.
 
 This adds an overhead of maintaining compatibility with MLH and our website and will be a constant maintenance project for research and development.
 
-### 4.7.4 Recruiting/Registration
+### 4 Recruiting/Registration
 
 For MLH purposes, architects are our organizers and cannot submit a hack for a prize at HackRU. We will urge them to attend other hackathons and hope that the projects they partake in and community impact they generate will provide incentive for their participation.
 
@@ -57,7 +57,7 @@ After this, the architect will be paired with a project. Though we prefer that t
 
 We will strongly urge architects to be involved in the CS community at Rutgers. Among various things, we will urge them to volunteer at HackRU as architects are well-qualified to be mentors or sit at the help desk.
 
-### 4.7.5 Development
+### 5 Development
 
 We hope to use GitHub for most of the development. GitHub will, through the HackRU organization and its project maintenance system.
 
@@ -67,7 +67,7 @@ For development, we hope to be agnostic in the tools we use. We hope to use tool
 
 We hope to maintain deadlines with the community that we are in contact with. If we are developing for HackRU we will maintain deadlines with the relevant fellow directors.
 
-### 4.7.6 Maintenance
+### 6 Maintenance
 
 We have little experience in maintenance as this team is still nascent and in the process of development.
 
@@ -75,17 +75,17 @@ In general, we hope to reduce the overhead of maintenance by insisting on thorou
 
 We will be thorough about maintaining our projects as external tools and needs develop. We will maintain relations with the communities we have helped in order to maintain the solutions we have provided them.
 
-### 4.7.7 Unrelated HackRU Projects
+### 7 Unrelated HackRU Projects
 
 We hope to include projects not related to HackRU or even the hacking community. We hope to accept projects from any part of Rutgers.
 
 This initiative is actively being explored and hopefully will kickstart after the HackRU related projects are more developed.
 
-### 4.7.8 Post HackRU Duties
+### 8 Post HackRU Duties
 
 We do not intend to categorize duties as pre vs. post or even “during” HackRU duties. Project development will continue regardless of HackRU’s timeline - especially for unrelated projects. (Related projects will abide by a generally pre-HackRU timeline.)
 
-### 4.7.9 Timeline
+### 9 Timeline
 
 In general, we hope that projects will be developed quickly. That is approximately all that can be said about project-based timelines as projects may vary in magnitude.
 
