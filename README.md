@@ -1,5 +1,5 @@
 # HackRU-RND-Handbook
-The mighty handbook for all of RND!  Follow theses mighty instructions young padawan and have an amazing hackathn!
+The mighty handbook for all of RND!  Follow theses mighty instructions young padawan and have an amazing hackathon!
 
 ## 4.7 Research and Development
 
