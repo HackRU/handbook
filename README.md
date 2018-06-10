@@ -2,7 +2,7 @@
 Learn about the HackRU Research and Development Team
 
 * 4.7.1 
- * Overview
+  * Overview
 * 4.7.2 
  * Basics
 * 4.7.3 Major League Hacking Login
