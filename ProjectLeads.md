@@ -1,27 +1,19 @@
 # RND Projects
 
-## LCS
-* Heman
+## LCS - Heman
 
 ## OneApp
-### iOS
-* Qasim
+### iOS - Qasim
 
-### Android
-* Sean
+### Android - Sean
 
-## Frontend
-* Ez
+## Frontend - Ez
 
-## Sledge 
-* Eric
+## Sledge - Eric
 
-## Code Sample
-* Srihari
+## Code Sample - Srihari
 
-## Team Builder
-* Bryan
+## Team Builder - Bryan
 
-## SlackRU
-* Mickey
+## SlackRU - Mickey
  
