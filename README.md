@@ -28,7 +28,7 @@ This team’s timeline many not align with that of HackRU. Projects may last ove
 
 ### 3 Recruiting/Registration
 
-For MLH purposes, architects are our organizers and cannot submit a hack for a prize at HackRU. We will urge them to attend other hackathons and hope that the projects they partake in and community impact they generate will provide incentive for their participation.
+We will urge them to attend other hackathons and hope that the projects they partake in and community impact they generate will provide incentive for their participation.
 
 In order to be an architect, any Rutgers student must fill out a brief form with their email and GitHub handle including short paragraphs on their interest in hackathons.
 
