@@ -1,4 +1,4 @@
-# HackRU RND Handbook
+# HackRU Research and Development Handbook
 Learn about the HackRU Research and Development Team
 
 * 4.7.1 
