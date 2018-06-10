@@ -5,13 +5,20 @@ Learn about the HackRU Research and Development Team
   * Overview
 * 4.7.2
   * Basics
-* 4.7.3 Major League Hacking Login
-* 4.7.4 Recruiting/Registration
-* 4.7.5 Development
-* 4.7.6 Maintenance
-* 4.7.7 Unrelated HackRU Projects
-* 4.7.8 Post HackRU Duties
-* 4.7.9 Timeline
+* 4.7.3 
+  * Major League Hacking Login
+* 4.7.4 
+  * Recruiting/Registration
+* 4.7.5 
+  * Development
+* 4.7.6 
+  * Maintenance
+* 4.7.7 
+  * Unrelated HackRU Projects
+* 4.7.8 
+  * Post HackRU Duties
+* 4.7.9 
+  * Timeline
 
 
 
