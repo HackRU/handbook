@@ -1,26 +1,15 @@
 # HackRU Research and Development Handbook
 Learn about the HackRU Research and Development Team
 
-* **1** 
-  * Overview
-* **2**
-  * Basics
-* **3** 
-  * Major League Hacking Login
-* **4** 
-  * Recruiting/Registration
-* **5** 
-  * Development
-* **6** 
-  * Maintenance
-* **7** 
-  * Unrelated HackRU Projects
-* **8** 
-  * Post HackRU Duties
-* **9** 
-  * Timeline
-
-
+* **1** Overview
+* **2** Basics
+* **3** Major League Hacking Login
+* **4** Recruiting/Registration
+* **5** Development
+* **6** Maintenance
+* **7** Unrelated HackRU Projects
+* **8** Post HackRU Duties
+* **9** Timeline
 
 ## Research and Development
 
