@@ -116,7 +116,10 @@ You should be receptive to their feedback, but also reasonable about you and you
 ### Director Meetings
 
 If your project needs a lot of feedback from another team, the directors will invite you to meet with
-that team. On the same note, you can be invited to meet all the directors.
+that team. On the same note, you can be invited to meet all the directors and get a lot of feedback.
+
+Unfortunately, these are also usually time-consuming. They're not worthy of any stress: there's simply a
+lot of information passed around.
 
 ## Feature Branches and the R&D Dev Flow
 
