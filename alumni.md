@@ -3,8 +3,10 @@
 Thank you for taking the time to join our team and welcome to the wonderful world of HackRU Research and Development
 
 * Overview
-* Project Leads
-* 
+* Project Structure
+* Code Review
+* Code Maitenance
+
 
 ## Overview
 
