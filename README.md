@@ -12,7 +12,7 @@ Learn about the HackRU Research and Development Team
 
 ## Research and Development
 
-### 1 Overview
+### Overview
 
 Our mission is to improve the overall hackathon experience by providing software to the community.
 
