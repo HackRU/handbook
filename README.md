@@ -1,7 +1,7 @@
 # HackRU Research and Development Handbook
 Learn about the HackRU Research and Development Team
 
-* **1** Overview
+* **1** [Overview](#overview)
 * **2** Basics
 * **3** Recruiting/Registration
 * **4** Development
