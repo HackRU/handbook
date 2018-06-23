@@ -32,7 +32,7 @@ The team consists 4 roles:
 The way that our projects are structured are with Directors, Project Leads, and Architects(also known as organizers).  Directors overlook the projects that are being made and the structure of the team as well as convey updates to the rest of the HackRU team.  Project Leads manage and build the project they are assigned to with their team of Architects.
 
 #### Alumni Mentors
-The role we would have Alumini Mentors do is help us mentor Project Leads and their architects with proper version control and coding styles that is used in industry as well as help with common issues that new developers may face.
+The role we would have Alumini Mentors do is help us mentor Project Leads and their architects with proper version control and coding styles that is used in industry as well as help with common issues that new developers may face as well as anything else you would like to help contribute with.
 
 ### Projects
 
