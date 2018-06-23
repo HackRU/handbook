@@ -5,7 +5,7 @@ Thank you for taking the time to help out our team and welcome to HackRU Researc
 * [Overview](#overview)
 * [Structure](#structure)
   * [Team](#team)
-    * [Directors, Project Leads, Architects](#directors%2C-project-leads%2C-architects)
+    * [Directors, Project Leads, Architects](#directors-project-leads-architects)
     * [Alumni Mentors](#alumni-mentors)
   * [Projects](#projects)
 * [Mentoring](#mentoring)
