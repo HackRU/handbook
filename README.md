@@ -20,11 +20,17 @@ In addition, we do not limit ourselves to HackRU: we hope to provide software th
 
 ### Basics
 
-Our team consists of developers we call architects. We hope that a team of architects can see a project from its inception to its delivery and into its maintenance.
+Our team consists of developers we call architects. We hope that a team of architects, creating a project team, can see a project from its inception to its delivery and into its maintenance.
+
+Project Teams consist of multiple roles:
+[Project Leads]()
+[Architects]()
+[Alumni Mentors]()
 
 We accept all project ideas for further research, from any community though we may have to prioritize HackRU projects.
 
 This team’s timeline many not align with that of HackRU. Projects may last over a semester and maintenance will certainly outlast many HackRUs as we hope projects will last.
+
 
 ### Recruiting/Registration
 
@@ -51,8 +57,6 @@ For development, we hope to be agnostic in the tools we use. We hope to use tool
 We hope to maintain deadlines with the community that we are in contact with. If we are developing for HackRU we will maintain deadlines with the relevant fellow directors.
 
 ### Maintenance
-
-We have little experience in maintenance as this team is still nascent and in the process of development.
 
 In general, we hope to reduce the overhead of maintenance by insisting on thorough documentation, perhaps even mandating it as a part of each project.
 
