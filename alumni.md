@@ -4,10 +4,14 @@ Thank you for taking the time to help out our team and welcome to HackRU Researc
 
 * [Overview](#overview)
 * [Structure](#structure)
+ * [Team](#team)
+  * [Directors, Project Leads, Architects](#Directors,-Project-Leads,-Architects)
+  * [Alumni Mentors](#alumni-mentors)
+ * [Projects](#projects)
 * [Mentoring](#mentoring)
 * [Code Review](#code-review)
 * [Code Maitenance](#code-maintenance)
-* [More](#more)
+* [Meetings](#meetings)
 
 
 ## Overview
@@ -34,5 +38,5 @@ The role we would have Alumini Mentors do is help us mentor Project Leads and th
 
 ## Code Review
 ## Code Maintenance
-## More
+## Meetings
 
