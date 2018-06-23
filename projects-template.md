@@ -1,8 +1,10 @@
 # <Name of Project>
 
 ## Description
-*What is the purpose of this project*
+*What is the purpose of this project?*
 
+## Inspiration
+*How did this project come to be?*
 
 ## Installation Guide
 *How do the users get this up and running?*
@@ -11,7 +13,8 @@ What do people need in their systems? Is there a hardware requirement?
 
 ## Example Uses
 
-*What in HackRU uses this?*
+*What in HackRU uses this, if this is a HackRU Project?*
+*What is this project for? if this is not a HackRU Project?*
 
 ## TO-DO List
 
