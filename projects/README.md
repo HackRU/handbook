@@ -1,7 +1,5 @@
 # Projects
 
-# New Projects
-
 ## Add new project thoughts below
 
 * Carpooling Application Integration
