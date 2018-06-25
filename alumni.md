@@ -1,4 +1,4 @@
-# Alumni
+# Alumni Mentors
 
 Thank you for taking the time to help out our team and welcome to HackRU Research and Development.  Below you will find the role that you will partake for our team and the contributions you can help make for it.
 
