@@ -16,7 +16,7 @@ What do people need in their systems? Is there a hardware requirement?
 *What in HackRU uses this, if this is a HackRU Project?*
 *What is this project for? if this is not a HackRU Project?*
 
-# Style Guide
+## Style Guide
 
 *What Code Design Style guide is this project following*
 
