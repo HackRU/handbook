@@ -23,9 +23,9 @@ In addition, we do not limit ourselves to HackRU: we hope to provide software th
 Our team consists of developers we call architects. We hope that a team of architects, creating a project team, can see a project from its inception to its delivery and into its maintenance.
 
 Project Teams consist of multiple roles:
-[Project Leads](https://github.com/HackRU/handbook/blob/master/project-leads.md#uwu-what-this)
-[Architects]()
-[Alumni Mentors](https://github.com/HackRU/handbook/blob/master/alumni.md#alumni)
+* [Project Leads](https://github.com/HackRU/handbook/blob/master/project-leads.md#uwu-what-this)
+* [Architects](https://github.com/HackRU/handbook/blob/master/architects.md#wilkommen)
+* [Alumni Mentors](https://github.com/HackRU/handbook/blob/master/alumni.md#alumni)
 
 We accept all project ideas for further research, from any community though we may have to prioritize HackRU projects.
 
