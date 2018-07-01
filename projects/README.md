@@ -11,7 +11,7 @@
 
 *  [lcs](https://github.com/HackRU/lcs) - Heman
 *  OneApp
-  *  [iOS](https://github.com/HackRU/one-app-ios) - Qasim
+  *  [iOS](https://github.com/HackRU/one-app-ios) - Qasim 
   * [Android](https://github.com/HackRU/one-app/tree/Android) - Sean
 * [Frontend](https://github.com/HackRU/frontend) - Ez
 *  [Sledge](https://github.com/HackRU/sledge) - Eric
