@@ -42,7 +42,7 @@ The  maintenance of projects will be through [feature branches](https://github.c
 Depending on the language, code will written conform to a style guide.  The style guide will be determined by the help of Alumni Mentors, Directors, and Project Leads.  Once a style guide is decided on, that will be the style guide that is followed for anything that is written in the langauge it corresponds to for any project in the team.
 
 ## Code Review
-Code review will be determined based off of the style guide chosen for that particular language.  Once a style guide is chosen than we would have the help on Alumni mentors determine if code is conforming to it correctly.  Code review will also assist with determining if certain code is being written the most efficient way, conforming to proper data structures and other algorithms. 
+Code review will be determined based off of the style guide chosen for that particular language.  Once a style guide is chosen than we would have the help of Alumni mentors determine if code is conforming to it correctly.  Code review will also assist with determining if certain code is being written the most efficient way, conforming to proper data structures and other algorithms. 
 
 ## Code Maintenance
 As mentioned [earlier](#projects) projects will be maintained on github.  Would we love to have the assistance of Alumni Mentors to determine if correct code version control practices are being used.  In the end these projects are all open source and we would love others outside of our team to be able to use and contribute to projects as much and as as easy as they can.
