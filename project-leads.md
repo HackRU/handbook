@@ -12,6 +12,8 @@ We have sections organized by priority:
 1. How to deal with the directors. [It's a bit of a scroll...](#dealing-with-directors)
 1. A few dev-related ideas. [Right at the bottom...](#feature-branches-and-the-r&d-dev-flow)
 
+Here is our list of Project Leads and their projects at the moment [Projects](https://github.com/HackRU/handbook/tree/master/projects#projects)
+
 ## Getting a Team
 
 Just because you're leading a project, doesn't mean you'll be doing the most work on it.
