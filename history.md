@@ -10,7 +10,7 @@ explained it to me (Heman). It was inspired by MIT's tech team.
 
 The name architect was probably the hardest R&D tradition that was decided in 2016. There were
 many other ideas: "builders," "creators," "designers," or just "organizers" - and then we settled
-on "architects." I think it's important to realise [what and architect is](#what-is-an-architect).
+on "architects." I think it's important to realise [what and architect is](architects.md#what-is-an-architect).
 It's odd, since in terms of HackRU's central organization, architects are organizers.
 
 After this, in December and January, we settled on an interview process. The familiar process
@@ -70,12 +70,34 @@ The projects were:
  - A photo filter: so people can update their profile pics for HackRU hype.
 
 The photo filter was the first time we coordinated with the marketing team. This is sort of of historical importance: marketing
-is the team we talk to the most.
+is the team we talk to the most. [Cong](https://github.com/CongWangStatic) finished this in a few weeks.
 
 The day-of dashboard was a last-minute miracle. It was crashing on the day-of and just about worked, but was very nice.
-It was a HackRU first and people were clamouring for it for a while.
+It was a HackRU first and people were clamouring for it for a while. [Jan](https://github.com/jandeancatarata) did this with surprisingly little oversight,
+bringing ReactJS to HackRU for the first time.
 
 The slackbot too suffered on the day-of. However, they were the first R&D team to live on their own: they just managed and delivered
-a bot with minimal intervention from the directors.
+a bot with minimal intervention from the directors. [Sam](https://github.com/Azoam) led the project and was advised by [Sri](https://github.com/Sail338).
 
-QRU and the mobile app were nice. The app was very last minute, but worked.
+QRU and the mobile app were nice. The app was very last minute, but worked. [Steve](https://github.com/bnjw5jhyxn) wrote it in ionic and a crazy Linux set-up and learning a lot on the fly.
+[Varun](https://github.com/thevarunshah) wrote an awesome backend and still maintains it! He nicely shared stats as his system was the first HackRU tech to cope with QRs.
+
+The Gavel updates were really small and not very difficult. [Devin](https://github.com/100) finished them in 4 or 5 Git commits over the Spring break.
+
+Another convention that was established here, accidentally, was the R&D would be responsible for registration on the day-of. This was because only we knew all the edge-cases with the phone apps and registration systems.
+
+## The First HackRU
+
+The eve of the first HackRU did not feel like a victory: Qasim was coding until midnight and the R&D meeting the night before had run on until 2 am with dashboard, the app, and parts of the slackbot continuously being
+fixed. That night was the first for which we had the calendar too, so there was a lot of work!
+
+Even as registration opened, R&D felt like a losing proposition: the dashboard was bugging out and hackers could barely access their QR codes.
+
+Then, in a miraculous thirty minutes, the thirty just before hacking began, the dashboard started to work.
+
+After this, most of R&D was smooth sailing. The mentorship bot crashed repeatedly, but one of the bugs was a certain lack of mentors. The QR codes were a revelation for the food team and the T-shirt handout at midnight,
+since both ran perfectly and each hacker took very few second to process. In fact, for the first time, lines had had to be stopped so that too many hackers would not be in the food area or getting T-shirts at the same time.
+
+The Gavel tune-up was not a tune-up: Heroku's timeout made the web scraping intractable and led to us having to fill in the database by hand. Judging was delayed by half an hour.
+
+Overall, R&D was OK. There were improvements to be made, but that was all.
