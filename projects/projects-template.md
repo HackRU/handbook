@@ -18,7 +18,7 @@ What do people need in their systems? Is there a hardware requirement?
 
 ## Style Guide
 
-*What Code Design Style guide is this project following*
+*What Code Design Style Guide and Linter is this project following?*
 
 
 ## TO-DO List
