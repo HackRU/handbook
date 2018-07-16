@@ -259,3 +259,20 @@ A few other changes were brewing for the backend too, however.
 The registration system, following that of the Fall, was a lot more complex than HackHERS'.
 This led to a lot of new logic being added to the backend system. User updates, too, were
 for the first time, verified based on user privileges.
+
+This is when some fun bugs occurred.
+
+### That Time the Tables were Dropped
+
+Did you know that the `$out` parameter in a Mongo aggregate truncates and then writes?
+Heman didn't... Thank God MLab kept a backup...
+
+### JS `undefined` Ruins Travel Reimbursement
+
+Heman pulled an all-nighter to code travel reimbursement at HackNY. (If only he submitted, but T_T.) But this lead to a bug in that there was a case where
+there would be an `undefined` in the JavaScript if a particular type of user applied for reimbursement. This caused the whole process to be delayed for
+a week.
+
+### Slack Rate-Limits
+
+This killed the frontend's slack updater.
