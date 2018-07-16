@@ -3,8 +3,7 @@
 ## Add new project thoughts below
 
 * Carpooling Application Integration
-* HackRU Hall of Fame
-* Mentor HelpQ                        
+* HackRU Hall of Fame                 
 
 
 ## Current Projects
@@ -17,4 +16,5 @@
 * [Code Samples](https://github.com/HackRU/starter-pack) - Srihari
 * [Team Builder](https://github.com/HackRU/teamRU) - Bryan
 * [SlackRU](https://github.com/HackRU/slackRU) - Mickey
+* [SnackRU](https://github.com/HackRU/snackRU) - Andrea
  

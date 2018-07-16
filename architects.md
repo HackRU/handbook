@@ -140,27 +140,14 @@ meet your project leads and people on your project to work on the project.
 
 These will vary sharply but should be rather informal.
 
+The project meetings layout will be determined by project leads.  The times for the meeting will be determined by availabilities.
+
 ## Other HackRU Meetings
 
 You might, depending on your project leader, go to other HackRU meetings - like director meetings
 and the meetings of other teams. You will have to respect the other teams and be polite. Your
 project lead and perhaps the directors will give you relevant tips at R&D meetings as they come up.
 
-# Coping
-
-Being an architect is not easy. There are various dimensions of hurt that can happen. A few hours
-ago, in conversation with project leads, I found myself saying that 0.03 of my GPA can be attributed
-as lost due to R&D. This is as a junior, so 0.03 is not _that_ small. I owe a B+ at least to R&D.
-In fact, we ask you how much of your soul you'll sell to HackRU. The organizers who take this question
-as a joke do not last: they're quickly outpaced by the all-nighter pulling maniacs around them.
-
-OK, but this is about coping... so why do I talk about all the hard work it is? So that you feel
-vindicated of course. HackRU is one of the few places in the world where hard work is directly
-rewarded.
-
-But you need to cope with a lot of things. So here are some tips:
-
-Ez wrote up some nice ones on [the frontend repo's README](https://github.com/HackRU/frontend/tree/bastard).
 
 ## How not to panic
 
