@@ -4,12 +4,13 @@ Yeah. Us.
 
 This is personal, so I'll write in first person. I'm Heman and I directed with Qasim.
 
-Below is a small summary of what we do, what we learned, and what we hope you do.
+Below is a small summary of what we do and then some tips based on  what we learned.
 
 # What we do
 
 There's a lot of different approaches to describing what we do. First, I'll describe
-the people. Then, I'll describe the timings.
+the people. Then, I'll describe the timings. Finally, there'll be some miscellaneous
+notes and things we have done and recommend that you do.
 
 ## People
 
@@ -160,7 +161,7 @@ It's important to have a schedule. Big things other teams do and related tips ar
 This is a count-down to the HackRU. Note that the summers, winters, and life, the universe,
 and everything, may change the exact dates - these are approximate.
 
-These timings are also based on past HackRUs, not on any real science, just experience.
+These timings are also based on past HackRUs: not on any real science, just experience.
 
 - (HackRU - 3 months) MnD polls for a theme and finance starts saying "spon doc" (sponsorship document).
 - (HackRU - 2.5 months) Spon-doc is roughly done. Look at it to get an idea of the colors
@@ -168,11 +169,53 @@ These timings are also based on past HackRUs, not on any real science, just expe
 - (HackRU - 2 months and 1 week) the design of the site should be known. Optimally, a demo
   of the registration site is live and being discussed.
 - (HackRU - 2 months) registration opens. Optimally, travel reimbursement should be here.
-- (HackRU - 1 month) food knows it's vendors and has probably talked to them. Day-of has probably
+- (HackRU - 1 month) food knows its vendors and has probably talked to them. Day-of has probably
   found judges. VHX is busy recruiting. Registration closes for hackers. Sponsorship should be close
   to finalized in most cases, so logos should be appearing on the site.
-- (HackRU - 3 weeks) first wave of acceptances. We need to plan workshops.
+- (HackRU - 3 weeks) first wave of acceptances. We need to plan workshops. Most projects should be tested.
+  VHX should have documentation on using the relevant HackRU apps by now.
 - (HackRU - 2 weeks) second wave of acceptances. Workshops happen.
+  Logistics definitely has finalized floor plans, so you should prod them about it.
 - (HackRU - 1 day) :poop: :fire: Actually, it's usually chill since VHX does a great job with volunteers.
 - (HackRU + 2 weeks) site can be taken down and DB dropped (but have a backup - sponsors might ask for aggregates).
-  A splash site should be put up.
+  A splash site should be put up. There should be a link to the old devpost so that hackers can claim their prizes.
+
+If HackHERS works off the same schedule, you'll notice that HackRU and HackHERS overlap. So should their preparation,
+unfortunately.
+
+## Other Stuff we Do
+
+Qasim and I have been busy outside of R&D too. But there are a few small things that we don't really know who should
+continue to do, so I'm just writing it here.
+
+The most tangible thing is the CS club presidents chat. We like that, as an R&D thing, it's very neutral, because
+HackRU tends to be. This chat is a quick utility to let clubs talk to each other and share important information.
+So anybody should say anything, really. So far we have the following:
+- Fizzbuzz (interview prep)
+- RUCP (competitive programming)
+- WiCS (women in CS)
+- IEEE (engineering society)
+- RUSTEAM (STEAM society)
+- HackRU exec directors
+- USACS (general CS society)
+- QFC (quantitative finance club)
+- COGS (creation of games society)
+- SWE (society of women engineers)
+
+Please continue it.
+
+We also promote hackathons, project-building, and inclusivity in programming.
+The first two promotions are natural. It also becomes easier to invite architects as you get to know them
+(so do that). Once people are at the hackathon, getting them to build a project is not that difficult either:
+just talk to them about ideas and most people will at least attempt something.
+Inclusivity is a lot harder to measure and be consistent with. But be nice and welcoming.
+
+# Lessons we Learned
+
+## Say no.
+
+## Bother people.
+
+## Test, clean up, and recuperate
+
+
