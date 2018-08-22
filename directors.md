@@ -6,6 +6,10 @@ This is personal, so I'll write in first person. I'm Heman and I directed with Q
 
 Below is a small summary of what we do and then some tips based on what we learned.
 
+It's hard to want to write this, because if I'm choosing you to direct R&D,
+I expect you to know a lot of this or be able to form your own (likely superior)
+understanding.
+
 # What we do
 
 There's a lot of different approaches to describing what we do. First, I'll describe
@@ -18,6 +22,10 @@ notes and things we have done and recommend that you do.
 So below the directors is the entire R&D team. Above, there are the executive directors.
 Across, there are fellow directors. Everybody should be friends, but that is what the
 ranking looks like.
+
+Note that I don't mention alumni and users. I expect you to know how to deal
+with them from having been a project lead. For a refresher on that,
+read the doc. Knowing who's a right alumnus should be easy from that.
 
 ### Project Leads
 
@@ -41,6 +49,8 @@ If you have that, you have the best team of project leads you can have. You will
 trust them and you will know that you can push them forward.
 
 Because, they really should be independent.
+
+If these people are right, the architects should naturally follow.
 
 ### Architects
 
