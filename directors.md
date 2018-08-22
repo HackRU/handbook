@@ -1,15 +1,16 @@
-#The Directors
+# The Directors
 
 Yeah. Us.
 
 This is personal, so I'll write in first person. I'm Heman and I directed with Qasim.
 
-Below is a small summary of what we do and then some tips based on  what we learned.
+Below is a small summary of what we do and then some tips based on what we learned.
 
 # What we do
 
 There's a lot of different approaches to describing what we do. First, I'll describe
-the people. Then, I'll describe the timings. Finally, there'll be some miscellaneous
+the people. Then, I'll describe the timings. These two would help you understand the meetings
+I'll describe third.  Finally, there'll be some miscellaneous
 notes and things we have done and recommend that you do.
 
 ## People
@@ -183,6 +184,52 @@ These timings are also based on past HackRUs: not on any real science, just expe
 If HackHERS works off the same schedule, you'll notice that HackRU and HackHERS overlap. So should their preparation,
 unfortunately.
 
+### Day-of Timings
+
+This is a rough HackRU schedule, also from experience. It's to explain what projects are used when so you know what
+to expect on the floor of HackRU.
+
+- 6 pm (or later) Friday: registration walkthrough for volunteers: make sure they know the flow.
+- 10 am Saturday: registration: R&D does this. You'll be ready. QR scanning and the label printer are essential.
+- 12 pm: Lunch means more QRs. The mentorship and team building apps may be demoed at opening.
+- 6 pm: Dinner also leads to QRs.
+- 12 am (Sunday): T-shirts, midnight surprise means QRs.
+- 2 am: midnight meal means QRs.
+- 8 am: breakfast means QRs.
+- 9:30 am: judging walkthrough (so the juding app has to be up and ready)
+- 10 am: Judging (or a bit later).
+
+## Meetings
+
+There are a plethora of meetings we go to.
+
+### Project leads
+
+This is just to catch up with the team and keep R&D on one page about the progress of everything.
+The weekly-updates folder has all the details, but the main point is to have every project have a sort-of
+stand-up: let them reveal their state, their blockers, and their todos.
+
+Leave room for more specific questions too. Also, consider having project leads demo their projects occasionally,
+to track progress and dive deeper into one project as needed.
+
+### All of R&D
+
+We hope you meet the architects. They ought to know you and you ought to know them. So meet! This should not be a very
+serious meeting. Have fun with it.
+
+### Directors
+
+You should meet with the directors weekly to handle inter-team communication and updates. This is like a drawn-out stand-up
+since blockers are resolved at times and the decisions involved might go back and forth a bit.
+
+Nowadays, these meetings hardly last longer than an hour, so are just about efficient.
+
+### Exec 1-on-1s
+
+R&D should somewhat insist on this. The execs should have a good pulse on R&D and R&D is very active.
+This is also useful so that deadlines can be better arranged and so that you don't burn yourself out.
+It might just help to know that the authorities (FWIW) support you.
+
 ## Other Stuff we Do
 
 Qasim and I have been busy outside of R&D too. But there are a few small things that we don't really know who should
@@ -212,10 +259,48 @@ Inclusivity is a lot harder to measure and be consistent with. But be nice and w
 
 # Lessons we Learned
 
+So this part is a bit philosophical. In fact, it's likely
+Qasim would disagree with some of this. Or say it in a different way.
+Or something.
+
 ## Say no.
+
+This is an important lesson. Saying no is difficult. But do it. Otherwise R&D won't sustain.
+So if a project simply can't make the deadline, just say no. If there's a feature that can't
+be done in time, say no.
+
+There is a balance between being under pressure to finish R&D tasks and being able to maintain
+the sanity of the team.
 
 ## Bother people.
 
-## Test, clean up, and recuperate
+People don't do things unless you bother them. Just be a nag. Because that's your job.
 
+## Test, clean up, and recuperate.
 
+Literally. There's no time. So just do it when you can.
+
+Technical debt is like a fungus: it grows if untreated.
+
+## People don't want to understand unless pushed to. (Document.)
+
+Nobody really wants to understand absolutely everything ever about HackRU or even R&D.
+So you have to push people to understand.
+
+And "understanding" is hard to understand. People can have the most messed up notions
+of what something is and a lot of wrong answers can sound right. So it'd be hard for
+you to know when people understand things. Keep asking them questions. Make them take
+minor intuitive leaps.
+
+Pushing may vary too. The best way to push people to understand is to document.
+The more you write, the clearer you become. Not because your verbose, but because
+you have practice. But sometimes, also because you've written out something
+that counters a misconception. Like this paragraph: "the more you write, the clearer
+you become" is really stupid thing to say - writers would probably scoff at it.
+But then, there are two explanations: that you get experience (the less useful and
+applicable explanation) and that you clear up misconceptions. By being meta (and
+writing a lot), I hope I've established the later: that I've given you examples
+of what I mean, so that you do really know what I mean to say.
+
+So, document well and clearly. Define the concept,
+discuss the idea, and then provide an example.
