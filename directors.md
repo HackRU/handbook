@@ -4,7 +4,7 @@ Yeah. Us.
 
 This is personal, so I'll write in first person. I'm Heman and I directed with Qasim.
 
-Below is a small summary of what we do and then some tips based on what we learned.
+Below is a small summary of [what we do](#what-we-do) and then some tips based on [what we learned.](#lessons-we-learned)
 
 It's hard to want to write this, because if I'm choosing you to direct R&D,
 I expect you to know a lot of this or be able to form your own (likely superior)
@@ -13,9 +13,9 @@ understanding.
 # What we do
 
 There's a lot of different approaches to describing what we do. First, I'll describe
-the people. Then, I'll describe the timings. These two would help you understand the meetings
-I'll describe third.  Finally, there'll be some miscellaneous
-notes and things we have done and recommend that you do.
+the [people](#people). Then, I'll describe the [timings](#times). These two would help you understand the [meetings](#meetings)
+I'll describe third.  Finally, there'll be some [miscellaneous
+notes and things we have done](#other-stuff-we-do) and recommend that you do.
 
 ## People
 
@@ -314,5 +314,10 @@ of what I mean, so that you do really know what I mean to say.
 
 So, document well and clearly. Define the concept,
 discuss the idea, and then provide an example.
+
+## Delegate.
+
+Let your project leads lead their projects. Don't do everything.
+You should be replaceable.
 
 ## This is your baby. Love it. Cherish it. But remember to let go.
