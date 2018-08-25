@@ -9,5 +9,6 @@
 }
 
 img {
-    width: 50%;
+    max-height: 30%;
+    width: 30%;
 }
