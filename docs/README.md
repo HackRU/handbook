@@ -123,5 +123,4 @@ Time:  Sunday @ 11:15AM-11:45AM (30Min)
  
  We would love to connect with your hackathon: bit.ly/hackathon-teams
  
- Qasim: qasimabbas52@gmail.com
- Heman: hemangandhi@gmail.com
+Qasim and Heman: rnd@hackru.org
