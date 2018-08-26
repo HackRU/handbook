@@ -5,7 +5,7 @@ Time:  Sunday @ 11:15AM-11:45AM (30Min)
 
   
 
-Introductions (3min)
+## Introductions (3min)
 
 * Qasim and Heman 
     - Directors of the Dev Team at Rutgers (HackRU RND) 
@@ -41,7 +41,7 @@ Introductions (3min)
         - Organizing Hackathon projects and assisted in project formation for USACS 
         - Manage Rutgers Hackathon Club Page for hackathon and project related discussions 
 
-What is Dev Team and Why? (8min)
+## What is Dev Team and Why? (8min)
 
 * The way we describe a dev team is a team that builds projects for the hackathon but also builds projects for the CS community as well. 
 * The importance of having a dev team helps us apply what we learn in real world scenarios and build meaningful projects. 
@@ -80,7 +80,7 @@ What is Dev Team and Why? (8min)
 
   
 
-Some of our (hackathon)  projects (6 min)
+## Some of our (hackathon)  projects (6 min)
 
 * Demos will only be a showcase of the prototypes or last semester projects and documentation 
 * Projects 
@@ -90,7 +90,7 @@ Some of our (hackathon)  projects (6 min)
   
   
 
-Make your own interview process! &lt;- group session (3 mins)
+## Make your own interview process! &lt;- group session (3 mins)
 
   
 
@@ -98,22 +98,22 @@ Make your own interview process! &lt;- group session (3 mins)
 * What kind of talent do you need? 
 * What kind of talent do you normally get? 
 * Interview question brainstorming 
-    - Our interview questions are aspiring from previous project building scenarios 
-        - “Judging Allocation Question” 
-        - “Barcolon Parser” 
+    * Our interview questions are aspiring from previous project building scenarios 
+        * “Judging Allocation Question” 
+        * “Barcolon Parser” 
 
   
 
-Gittiquette and project management &lt;- also brainstorm (10 mins)
+## Gittiquette and project management &lt;- also brainstorm (10 mins)
 
 * Feature branches are nice. 
 * PRs and issues help with readability and documents the workflow. 
 * Automate as much as possible - with testing and deploys. 
 * Example!  
-    - Meeting Notes 
-    - Our flow 
-        - Catching an error 
-        - Creating an issue 
+    * Meeting Notes 
+    * Our flow 
+        * Catching an error 
+        * Creating an issue 
 
-* Our handbook. 
-    - Have a link to the How to Create Dev Team page
+## Our handbook. 
+    * Have a link to the How to Create Dev Team page
