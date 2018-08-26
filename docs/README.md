@@ -115,5 +115,5 @@ Time:  Sunday @ 11:15AM-11:45AM (30Min)
         * Catching an error 
         * Creating an issue 
 
-## Our handbook. 
-    * Have a link to the How to Create Dev Team page
+## Our handbook
+  * Have a link to the How to Create Dev Team page
