@@ -114,6 +114,11 @@ Time:  Sunday @ 11:15AM-11:45AM (30Min)
     * Our flow 
         * Catching an error 
         * Creating an issue 
-
-## Our handbook
-  * Have a link to the How to Create Dev Team page
+        
+        
+ ## Our Handook
+ 
+ Check out how our team runs more closely through our [handbook](https://hackru.github.io/handbook) and connect with us!
+ 
+ Qasim: qasimabbas52@gmail.com
+ Heman: hemangandhi@gmail.com
