@@ -1,6 +1,7 @@
 # Hacking for Hacking: Having a Dev Team
 
-If you would like to use this fancy slideshow:) : https://revealjs.com
+A link to our [presentation](https://hackru.github.io/handbook) 
+If you would like to use this fancy slideshow :smile: : https://revealjs.com
 
 Time:  Sunday @ 11:15AM-11:45AM (30Min)
 
@@ -119,7 +120,7 @@ Time:  Sunday @ 11:15AM-11:45AM (30Min)
         
  ## Our Handook
  
- Check out how our team runs more closely through our [handbook](https://hackru.github.io/handbook) and connect with us!
+ Check out how our team runs more closely through our [handbook](https://github.com/HackRU/handbook) and connect with us!
  
  We would love to connect with your hackathon: bit.ly/hackathon-teams
  
