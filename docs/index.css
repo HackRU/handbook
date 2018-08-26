@@ -1,0 +1,13 @@
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+
+img {
+    width: 30%;
+}
