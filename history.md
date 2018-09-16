@@ -273,6 +273,10 @@ Heman pulled an all-nighter to code travel reimbursement at HackNY. (If only he 
 there would be an `undefined` in the JavaScript if a particular type of user applied for reimbursement. This caused the whole process to be delayed for
 a week.
 
+### WiFi Kills the Label Printer
+
+The lack of WiFi at registration killed the label maker. It exacerbated a lot of other bugs too.
+
 ### Slack Rate-Limits
 
 This killed the frontend's slack updater.
@@ -282,6 +286,10 @@ This killed the frontend's slack updater.
 Slack can't, for the life of its docs, tell you what the types of bot are. And it's hard to know which type an undocumented codebase is.
 Especially when it's two types. And uses flask in an object-oriented way that's rare.
 
+### Firebase's rate limit kills dinner QR scanning
+
+So food lost a few statistics.
+
 ### Table Allocation Delays Judging
 
 Yeah. The allocation algorithm crapped out, so judging was delayed as we allocated judges by hand and forced that into the table.
@@ -289,4 +297,4 @@ Additionally, there were some hacks that had to be placed close to one another, 
 
 # The Moral of the Story
 
-Document, kiddos.
+Document and test, kiddos.
