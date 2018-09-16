@@ -276,3 +276,17 @@ a week.
 ### Slack Rate-Limits
 
 This killed the frontend's slack updater.
+
+### SlackRU was not documented
+
+Slack can't, for the life of its docs, tell you what the types of bot are. And it's hard to know which type an undocumented codebase is.
+Especially when it's two types. And uses flask in an object-oriented way that's rare.
+
+### Table Allocation Delays Judging
+
+Yeah. The allocation algorithm crapped out, so judging was delayed as we allocated judges by hand and forced that into the table.
+Additionally, there were some hacks that had to be placed close to one another, so sledge's team had to table switch by hand-querying a SQL table.
+
+# The Moral of the Story
+
+Document, kiddos.
