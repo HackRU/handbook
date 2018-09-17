@@ -17,6 +17,12 @@ We expect this for Spring 2019.
 
 This project aims to let sponsors interact with hackers more easily on the day of.
 The basic idea is to let sponsors scan QR codes of hackers to allow them access to resumes.
+The scanner is allowed only for sponsors of a particular tier.
+
+We hope to include a few more features:
+ - A feature to star emails scanned for sponsors to remember. We may also allow them to add notes
+   if not custom labels.
+ - A map detailing the table location and the finance welcome pack in the app.
 
 ## Inspiration
 *How did this project come to be?*
