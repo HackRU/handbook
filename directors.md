@@ -116,6 +116,14 @@ They should read the sponsorship site and approve it.
 Also, they provide logos that need to be put on the main site. Remember that nobody at HackRU can
 tweak the logos without permission from the sponsors.
 
+The final, and likely most important thing is that we give finance the budget. It tends to look like this:
+ - $107 for the iOS license
+ - $25 for the android licence
+ - $10 for the website
+ - $60 for labels.
+
+Note that the iOS and android charges are annual.
+
 #### Logistics
 
 We need to talk to this team for travel reimbursements and day-of floor plans.
@@ -245,6 +253,8 @@ It might just help to know that the authorities (FWIW) support you.
 Qasim and I have been busy outside of R&D too. But there are a few small things that we don't really know who should
 continue to do, so I'm just writing it here.
 
+### The CS Chat
+
 The most tangible thing is the CS club presidents chat. We like that, as an R&D thing, it's very neutral, because
 HackRU tends to be. This chat is a quick utility to let clubs talk to each other and share important information.
 So anybody should say anything, really. So far we have the following:
@@ -260,6 +270,20 @@ So anybody should say anything, really. So far we have the following:
 - SWE (society of women engineers)
 
 Please continue it.
+
+### Cupcake and Bean
+
+We also maintain a couple machines.
+
+Cupcake is a small notepad laptop with not much processing.
+She (yes, she), runs Arch without a GUI to be the label printer's server.
+She'll be tested for the first time this semester.
+
+Bean is a raspberry Pi. He runs raspbian and is used in the CAVE to display
+bus times and other niceties on the CAVE TV when people aren't playing smash.
+With pianobar and a pandora account, he can also play music.
+
+### Generally...
 
 We also promote hackathons, project-building, and inclusivity in programming.
 The first two promotions are natural. It also becomes easier to invite architects as you get to know them
