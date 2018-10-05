@@ -1,7 +1,7 @@
 # Projects
 
 * Sledge
- * Documentation: 
- * Video: 
+  *  Documentation: 
+  *  Video: 
 
 ## 
