@@ -2,9 +2,13 @@
 
 ## Add new project thoughts below
 
-* Carpooling Application Integration
+* Travel Reimbursements
+  * Carpooling Application Integration
 * HackRU Hall of Fame                 
-
+* Geolocate mentors
+* Sponsor Dashboard
+  * Having sponsors see status of contracts/tech talks/info we need to send them
+* Edit Admin Dashboard -> Role Promotion
 
 ## Current Projects
 
