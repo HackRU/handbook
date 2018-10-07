@@ -10,6 +10,7 @@
 * Geolocate mentors
 * Sponsor Dashboard
   * Having sponsors see status of contracts/tech talks/info we need to send them
+  * MLH yeeter
 * Admin Dashboard
   * Role Promotion
   * Make more readable
