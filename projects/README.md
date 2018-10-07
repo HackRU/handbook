@@ -8,7 +8,9 @@
 * Geolocate mentors
 * Sponsor Dashboard
   * Having sponsors see status of contracts/tech talks/info we need to send them
-* Edit Admin Dashboard -> Role Promotion
+* Admin Dashboard
+  * Role Promotion
+  * Make more readable
 
 ## Current Projects
 
