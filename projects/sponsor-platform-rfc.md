@@ -4,11 +4,7 @@
 
 PLease comment on it. This file will disappear into TO-DOs on the following projects if the RFC
 is approved:
- - LCS
- - One App iOS
- - One App Android
- - Frontend
- - (Depending on demand) a standalone project.
+ - a standalone project.
 
 We expect this for Spring 2019.
 
