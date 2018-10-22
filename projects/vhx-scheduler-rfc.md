@@ -56,4 +56,5 @@ N/A for now.
 
 ## Other crazy extensions
 
-Gang gang
+- Text reminds for volunteers and mentors of their shifts.
+  - Perhaps push notifications in the apps.
