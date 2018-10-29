@@ -19,6 +19,7 @@ We hope to include a few more features:
  - A feature to star emails scanned for sponsors to remember. We may also allow them to add notes
    if not custom labels.
  - A map detailing the table location and the finance welcome pack in the app.
+ - A listing of hacks that applied for the sponsors prizes.
 
 ## Inspiration
 *How did this project come to be?*
