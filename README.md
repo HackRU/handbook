@@ -50,7 +50,7 @@ We will strongly urge architects to be involved in the CS community at Rutgers. 
 
 We hope to use GitHub for most of the development. GitHub will, through the HackRU organization and its project maintenance system, provide a lot of the structure to the projects, allowing alumni and other people who are not regularly at meetings to contribute.
 
-Internal communications will also be managed through the team slack (with a channel for each project). This way, people can keep messages organized by project and share smaller files while keeping information accessible to the directors and any interested architects or HackRU organizers.
+Internal communications will also be managed through the team discord (with a channel for each project). This way, people can keep messages organized by project and share smaller files while keeping information accessible to the directors and any interested architects or HackRU organizers.
 
 For development, we hope to be agnostic in the tools we use. We hope to use tools that would require the least maintenance and have the highest efficiency. We hope to use the correct tool every time to make all projects run smoothly. As a result, we also expect Architects to learn as needed and not be too heavily biased towards familiar tools.
 
