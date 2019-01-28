@@ -11,17 +11,13 @@
   *  Documentation: https://github.com/HackRU/one-app-ios-s18#one-app-ios
 * Team-builder
   *  Documentation: https://github.com/HackRU/teamRU#team-builder
-* Snackru
-  *  Documentation: https://github.com/HackRU/snackRU#snackru
 * Helpq
   *  Documentation: https://github.com/HackRU/helpq/blob/master/README.md#helpq
   *  Video: https://youtu.be/Kk6unOe3Xpw
-
-  
- 
-
-
-
-  
-
-## 
+* VHX Scheduler
+  * Github of Backend: https://github.com/HackRU/VHX-Scheduler-Backend
+  * Github of frontend: https://github.com/HackRU/VHX-Scheduler-Frontend
+  * Docs: https://github.com/HackRU/handbook/blob/master/projects/vhx-scheduler-rfc.md
+* Sponsorship Portal:
+  * Code: https://github.com/HackRU/Sponsorship
+  * Docs: https://github.com/HackRU/handbook/blob/master/projects/sponsor-platform-rfc.md

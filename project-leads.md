@@ -115,7 +115,7 @@ has been built.
 The key difference is that organizers have the power, before the even, to change your project's specs.
 You should be receptive to their feedback, but also reasonable about you and your team's capabilities.
 
-### Director Meetings
+### Meeting Directors
 
 If your project needs a lot of feedback from another team, the directors will invite you to meet with
 that team. On the same note, you can be invited to meet all the directors and get a lot of feedback.

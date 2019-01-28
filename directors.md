@@ -4,6 +4,8 @@ Yeah. Us.
 
 This is personal, so I'll write in first person. I'm Heman and I directed with Qasim.
 
+Hopefully future directors will get rid of our names as needed.
+
 Below is a small summary of [what we do](#what-we-do) and then some tips based on [what we learned.](#lessons-we-learned)
 
 It's hard to want to write this, because if I'm choosing you to direct R&D,
@@ -96,16 +98,10 @@ They are very helpful with tracking deadlines and facilitating inter-team commun
 
 They stole our naming convention.
 
-But they're the closest team to R&D because we must interact with them a lot for the website.
-They choose the theme, colors, and help with design. The optimal balance (that we are currently
-tweaking) is to have a designer in R&D who provides wire-frames to MnD (or all of HackRU's team)
-early on.
+They give us assets for the web page and define the colors for us to use.
 
-It is important to note that the intersection of the teams is large, but not large in comparison
-to the overall responsibilities of either team. The web front end is an eighth of R&D and at most
-a sixth of MnD (from what I know). MnD is also designing T-shirts, stickers, goody-bags and managing
-the social media. So while we need to collaborate, we cannot really push them or expect them to take
-the lead.
+We give the marketing team email lists occassionally, for registered users, or users who are coming.
+We maintain the mailing list while the splash page is up.
 
 #### Finance
 
@@ -120,8 +116,8 @@ tweak the logos without permission from the sponsors.
 
 We need to talk to this team for travel reimbursements and day-of floor plans.
 
-Hopefully, we will have converged on a travel reimbursement procedure, but we hope to always confirm
-the policy with logistics.
+In travel reimbursements, we confirm the cost-per-mile constants per means of transport,
+among other things.
 
 We may call upon them to help with the day-of registration as well.
 
@@ -144,27 +140,15 @@ how to use these tools.
 
 #### Food
 
-We maintain the snack consumption tracking. SnackRU is the hope to do that for volunteers,
-but QR-scanning helps tremendously with the food-consumption estimates.
+SnackRU is deprecated, but we may be in touch regarding this: it was intended to track snack consumption.
+
+The food team gives us a pdf of the menu to put on the website.
 
 ### WiCS
 
-We also help with HackHERS.
+We used to help with HackHERS, but now they have their own static site.
 
-The most important thing to know about WiCS is that we don't know a lot: we saw them at their
-worst and I don't want to judge them based on it.
-
-They were not a team in 2018, since only one or two people had ever run a hackathon and
-people did not have the information they needed to give us.
-
-More generally, HackHERS is about a third of the size of a HackRU, so the organizing
-team is smaller, and we few things just about scale to work for HackHERS even if they
-wouldn't for HackRU.
-
-We offer them similar deliverables to the above, but have fewer people to bother.
-
-(We will update this in lieu of HackHERS 2019 when, hopefully, both our team and their team
-will have delivered an on-time, stress-free, tremendous hackathon.)
+They have a smaller team and we talk to them only to offer our tools.
 
 ## Times
 

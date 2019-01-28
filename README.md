@@ -70,7 +70,9 @@ This initiative is actively being explored and hopefully will kickstart after th
 
 ### Post HackRU Duties
 
-We do not intend to categorize duties as pre vs. post or even “during” HackRU duties. Project development will continue regardless of HackRU’s timeline - especially for unrelated projects. (Related projects will abide by a generally pre-HackRU timeline.)
+We will have a post-mortem to address communication issues and technical issues.
+
+Project development will continue regardless of HackRU’s timeline - especially for unrelated projects. (Related projects will abide by a generally pre-HackRU timeline.)
 
 ### Timeline
 
